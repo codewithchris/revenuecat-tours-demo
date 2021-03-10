@@ -1,0 +1,6 @@
+framework module Pods_revcat_demo {
+  umbrella header "Pods-revcat demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
